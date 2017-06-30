@@ -1,0 +1,14 @@
+最快的方法: 於 c9.io 建立新的 Workspace 時，選擇 Node.js 範本。
+
+
+
+如果你的 Cloud9 Workspace 原先是選 PHP 這個範本，安裝 Node.js 的程序如下:
+
+1. 新增一個終端機視窗
+
+2. 鍵入下列指令:
+
+sudo apt-get update
+sudo apt-get install nodejs
+sudo apt-get install npm
+
